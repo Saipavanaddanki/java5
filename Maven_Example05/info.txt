@@ -1,0 +1,6 @@
+DEBUG - main - 0-com.nit.service.App -main is started -2024-03-09 21:46:09,562 -
+DEBUG - main - 12-com.nit.service.App -a , b is initialized -2024-03-09 21:46:09,574 -
+INFO - main - 13-com.nit.service.App -add -2024-03-09 21:46:09,575 -
+INFO - main - 13-com.nit.service.App -sub -2024-03-09 21:46:09,575 -
+INFO - main - 13-com.nit.service.App -mul -2024-03-09 21:46:09,575 -
+INFO - main - 71-com.nit.service.App -main is ended -2024-03-09 21:46:09,633 -
